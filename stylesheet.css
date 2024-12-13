@@ -1,0 +1,92 @@
+.bb{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight> ;
+    font-style:normal;
+
+}
+    .btn1{
+    background-color: #5ab7a6;
+    border: none;
+    border-radius: 45%;
+    color: white;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight> ;
+    font-style:normal;
+    font-size: 15px;
+}
+.btn2{
+    background-color: #6573f6;
+    border: none;
+    border-radius: 45%;
+    color: white;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight> ;
+    font-style:normal;
+  font-size: 15px;
+}
+#img1{
+    float: left;
+    padding: 2%;
+}
+.cc{
+    float: right ;
+    padding-right: 15%;
+    border: none;
+    text-align: left;
+}
+.dd{
+    
+    text-align: center;
+    clear: left;
+
+}
+
+.lo{
+    float: left;
+}
+.img2{
+    float: center;
+    
+}
+.box{ 
+    border: none;
+    float: center;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+}
+
+.footer{
+   padding: 45px;
+    background-color: #f1f1f1;
+    text-align: center;
+
+}
+.icons{
+    float: right;
+ 
+}
+.logo2{
+    float: left;
+    padding: 1.5%;
+
+}
+.links{
+    float: center;
+    border: none;
+    text-align: center;
+}
+.fc{
+    color: rgba(210, 217, 223, 0.829);
+}
